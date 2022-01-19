@@ -15,8 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ASM-Lab02.cpp">
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="AddSub.asm">
       <Filter>來源檔案</Filter>
-    </ClCompile>
+    </MASM>
   </ItemGroup>
 </Project>
